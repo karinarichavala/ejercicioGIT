@@ -1,6 +1,6 @@
 # ejercicioGIT
-##Tipti: Tech Academy
+Tipti: Tech Academy
 Git and GitHub practical exercise 
 
-###Author: Karina Arichavala
-###E-mail: karina.arichavala@gmail.com
+Author: Karina Arichavala
+E-mail: karina.arichavala@gmail.com
